@@ -166,7 +166,7 @@ input:focus{
  }
  .program-name{
      font-size: 20px;
-     margin: 0px;
+     margin: 30px 0px;
      text-transform: uppercase;
      font-weight: 500;
      color: #21B573;
